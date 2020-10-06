@@ -1,0 +1,16 @@
+.taskContainer {
+    position: relative;
+    width   : 100%;
+    margin  : 10px;
+    padding : 1px;
+}
+
+.editTextField {
+    width: 80%;
+    float: left;
+}
+
+.checkBox {
+    position: relative;
+    float   : left;
+}

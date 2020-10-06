@@ -1,0 +1,11 @@
+.paper {
+    width   : 550px;
+    height  : auto;
+    position: absolute;
+    padding : 5px;
+}
+
+.createTextField {
+    width: 70%;
+    float: left;
+}
